@@ -199,6 +199,7 @@ $ make test
 
 ## License
 
+```txt
     The MIT License
     
     Copyright (c) 2010-2011 TJ Holowaychuk <tj@vision-media.ca>
@@ -222,3 +223,4 @@ $ make test
     CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
     TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
     SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
